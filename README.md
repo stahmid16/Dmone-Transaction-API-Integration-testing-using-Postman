@@ -1,6 +1,13 @@
 # Domney Transaction API Tesing Using Postmane
 
-Transaction Diposit,Withdraw,payment,Send Money and cashout
+## Generale Activiy
+- Create Agent,Customer,Merchant
+- Diposit Agent to customer
+- Send money customer to customer
+- Withdraw Customer to Agent
+- Make payment Customer to Merchant
+- Chack Balance Agent,Customer,Merchant
+- Search by Transaction id
 
 ## Using Tools and Technology
 ```
